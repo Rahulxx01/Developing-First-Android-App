@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="welcome_to_the_show_store">Welcome To the Shoe Store</string>
+    <string name="enjoy_all_variety_of_shoes">Enjoy All Variety of shoes</string>
+    <string name="todo">TODO</string>
+    <string name="enter_details">Please Enter the details properly</string>
+    <string name="instruction">Use Floating action button to move to the Detail Screen to Add New shoes of your choice and display them in the list please navigate forward</string>
+    <string name="move_forward">Move Forward</string>
+    <string name="instruction_label">Instruction</string>
+    <string name="login_label">Login to Shoe Data Store</string>
+    <string name="shoe_details_label">Shoe Details</string>
+    <string name="add_shoes">Add Shoes</string>
+</resources>
